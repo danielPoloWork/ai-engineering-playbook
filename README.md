@@ -1,6 +1,12 @@
 # AI Engineering Prompt Collection
+Transform LLMs into Senior Architects, Engineers, Reviewers and DevOps Specialists
 
-> A curated collection of production-oriented prompts for modern AI coding assistants.
+![AI Engineering](https://img.shields.io/badge/AI-Engineering-blue)
+![LLM](https://img.shields.io/badge/LLM-Prompt%20Engineering-purple)
+![Software Architecture](https://img.shields.io/badge/Software-Architecture-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+> A curated collection of production-grade prompts for AI-assisted software engineering.
 
 ---
 
